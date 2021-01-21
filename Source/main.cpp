@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Welcome Advanced Data Structures" << std::endl;
+    std::cout << "la maldicion" << std::endl;
     return 0;
 }
